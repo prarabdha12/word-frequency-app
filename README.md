@@ -6,7 +6,7 @@ This is a React.js application that fetches the contents of a text file, calcula
 
 - Fetches the contents of https://www.terriblytinytales.com/test.txt
 - Parses the content and calculates the frequency of each word
-- Displays a histogram of the 20 most occurring words
+- Displays a histogram of the 20 most occurring words o X-axis
 - Provides an "Export" button to download a CSV file of the histogram data
 
 ## Technologies Used
