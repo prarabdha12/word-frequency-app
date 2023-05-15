@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import axios from "axios";
 import Plot from "react-plotly.js";
-import "./WordFrequencyHistogram.css"; // Import CSS file
+import "./a.css"; // Import CSS file
 
-const WordFrequencyHistogram = () => {
+const ChatHistogram = () => {
   const [wordFrequency, setWordFrequency] = useState([]);
   const [loading, setLoading] = useState(false);
   const [submitted, setSubmitted] = useState(false); // New state variable to track submission status
@@ -80,7 +80,7 @@ const WordFrequencyHistogram = () => {
             layout={{
               width: 800,
               height: 600,
-              title: "Word Frequency Histogram",
+              // title: "Word Frequency Histogram",
               xaxis: {
                 title: "Words",
               },
@@ -99,4 +99,4 @@ const WordFrequencyHistogram = () => {
   );
 };
 
-export default WordFrequencyHistogram;
+export default ChatHistogram;

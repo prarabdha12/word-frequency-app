@@ -1,11 +1,11 @@
 import React from "react";
-import WordFrequencyHistogram from "./WordFrequencyHistogram";
+import ChatHistogram from "./ChatHistogram";
 
 const App = () => {
   return (
     <div>
-      <h1>Word Frequency Analysis</h1>
-      <WordFrequencyHistogram />
+      <h1>Histogram(Word Count)</h1>
+      <ChatHistogram />
     </div>
   );
 };
