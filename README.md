@@ -18,16 +18,16 @@ This is a React.js application that fetches the contents of a text file, calcula
 
 ## Installation
 
-1. Clone the repository:
+### 1. Clone the repository:
 
 ```bash
 git clone <repository_url>
 
-2. Navigate to the project directory:
+### 2. Navigate to the project directory:
 
 cd word-frequency-histogram
 
-3. Install the dependencies:
+### 3. Install the dependencies:
 
 npm install
 
