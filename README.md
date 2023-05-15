@@ -39,9 +39,19 @@ npm start
 
 3. Click the "Submit" button to fetch the word frequency and display the histogram.
 
+![Screenshot 2023-05-15 022134](https://github.com/sudh-202/word-frequency-app/assets/87563365/78a2ecb9-3724-4103-850c-d8435721150b)
+
 4. The top 20 words with the highest occurrence will be plotted in the histogram chart.
 
+![Screenshot 2023-05-15 022151](https://github.com/sudh-202/word-frequency-app/assets/87563365/44e121ff-d399-40d5-a4c3-c53b2a197a2f)
+
+
 5. Click the "Export" button to download a CSV file containing the histogram data.
+
+![Screenshot 2023-05-15 022405](https://github.com/sudh-202/word-frequency-app/assets/87563365/cb570927-504a-45f5-8cd9-0a57dab63b3c)
+
+Deployed Version
+Access the deployed version of the application here - https://word-frequency-histogram.netlify.app/
 
 # Customization
 
