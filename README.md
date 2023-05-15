@@ -50,7 +50,7 @@ npm start
 
 ![Screenshot 2023-05-15 022405](https://github.com/sudh-202/word-frequency-app/assets/87563365/cb570927-504a-45f5-8cd9-0a57dab63b3c)
 
-Deployed Version
+# Deployed Version
 Access the deployed version of the application here - https://word-frequency-histogram.netlify.app/
 
 # Customization
